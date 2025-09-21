@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="Me_GIF.gif"  />
+<img align="right" width="102" height="117" src="Me_GIF.gif"  />
 
 ###
 
