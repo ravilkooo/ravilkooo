@@ -6,11 +6,28 @@
 
 ###
 
-<p align="left">Building graphics and core systems for game engines: DirectX 12, multithreaded rendering, and CPU/GPU performance.<br><br>* C++ performance engineering (SIMD, cache, memory)<br>* Low-level DX11/12 rendering and pipeline work<br>* Parallel computing: CUDA, OpenMP, MPI<br>* Engine subsystems: memory, jobs, profiling</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">Currently: ITMO (Game Dev) and feature work at Nau Engine (Core/Graphics).</p>
+<p align="left">Building graphics and core systems for game engines: DirectX 12, multithreaded rendering, and CPU/GPU performance.
+<ul style="list-style: none; padding:  0 15 0;">
+  <li>📚 C++ performance engineering (SIMD, cache, memory)</li>
+  <li>⚙ Low-level DX11/12 rendering and pipeline work</li>
+  <li>🔭 Parallel computing: CUDA, OpenMP, MPI</li>
+  <li>⚡ Engine subsystems: memory, jobs, profiling</li>
+</ul>
+</p>
+
+###
+
+<p align="left">
+<h3 align="left">💻 Currently</h3>
+ITMO (Game Dev) and feature work at Nau Engine (Core/Graphics).</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
