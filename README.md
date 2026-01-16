@@ -12,10 +12,9 @@
 
 <p align="left">Building graphics and core systems for game engines: DirectX 12, multithreaded rendering, and CPU/GPU performance.
 <ul style="list-style: none; padding:  0 15 0;">
-  <li>📚 C++ performance engineering (SIMD, cache, memory)</li>
+  <li>📚 C++ performance engineering</li>
   <li>⚙ Low-level DX11/12 rendering and pipeline work</li>
   <li>🔭 Parallel computing: CUDA, OpenMP, MPI</li>
-  <li>⚡ Engine subsystems: memory, jobs, profiling</li>
 </ul>
 </p>
 
